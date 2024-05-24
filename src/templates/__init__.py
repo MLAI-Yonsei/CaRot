@@ -1,0 +1,3 @@
+from .openai_imagenet_template import openai_imagenet_template
+from .openai_imagenet_template_reduced import openai_imagenet_template_reduced
+from .simple_template import simple_template
