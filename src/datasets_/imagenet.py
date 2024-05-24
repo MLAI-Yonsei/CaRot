@@ -67,9 +67,8 @@ class ImageNet:
         self.populate_test()
 
     def populate_train(self):
-        temp_loc = '/data1/changdae/calib-ft/datasets/data'
-        #traindir = os.path.join(self.location, 'ILSVRC2012', 'train')
-        traindir = os.path.join(temp_loc, 'ILSVRC2012', 'train')
+        traindir = os.path.join(self.location, 'ILSVRC2012', 'train')
+        #traindir = os.path.join(temp_loc, 'ILSVRC2012', 'train')
 
         self.train_dataset = ImageFolderWithPaths(traindir,
                                                   transform=self.preprocess)
