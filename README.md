@@ -1,7 +1,9 @@
 # Towards Calibrated Robust Fine-Tuning of Vision-Language Models (NeurIPS 2024)
 Changdae Oh*, Hyesu Lim*, Mijoo Kim, Dongyoon Han, Sangdoo Yun, Jaegul Choo, Alexander Hauptmann, Zhi-Qi Cheng^, Kyungwoo Song^
 
-[arXiv](https://arxiv.org/abs/2311.01723)
+
+[![Paper](https://img.shields.io/badge/arXiv-2311.01723-orange)](https://arxiv.org/abs/2311.01723)
+[![CKPT](https://img.shields.io/badge/GoogleDrive)](https://drive.google.com/drive/folders/1PJCV7KsV0ht5QvIZVOEFZ3C05ODtTsqq?usp=sharing)
 
 <br/>
 <br/>
